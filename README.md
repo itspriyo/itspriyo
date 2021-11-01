@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at my [https://git.io/itspriyo](https://git.io/itspriyo)
 
-- 💬 Ask me about **Heroku, Telegram Bots, Html Sites**
+- 💬 Ask me about my [support group](https://t.me/joinchat/jljHMPs11ck5NGU9) **Heroku, Telegram Bots, Html Sites**
 
 <img src="https://raw.githubusercontent.com/itspriyo/itspriyo/main/src/border.png" alt="itspriyo" />
 
