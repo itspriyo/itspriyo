@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/itspriyo/itspriyo/main/src/hi.gif" width="40px" alt="👋">, I'm <b>Priyo</b></h1>
-<h3 align="center">A Passionate Developer From <a href="https://www.google.com/search?q=Uttara" target="_blank">Uttara</a>, <a href="https://www.google.com/search?q=Dhaka" target="_blank">Dhaka</a>.</h3>
+<h3 align="center">A Noob Developer From <a href="https://www.google.com/search?q=Uttara" target="_blank">Dhaka</a>, <a href="https://www.google.com/search?q=Dhaka" target="_blank">Bangladesh</a>.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=varnax-279&label=Profile%20Views&color=829bab&style=plastic" alt="varnax-279" /> </p>
 
