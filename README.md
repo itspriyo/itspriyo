@@ -3,6 +3,8 @@
 
 [![Priyo](https://readme-typing-svg.herokuapp.com?color=F7185A&vCenter=true&lines=%3E+Hi+%F0%9F%91%8B%2C+Everyone.;%3E+I'm+Priyo.;%3E+A+Developer+From+Dhaka.)](https://git.io/itspriyo)
 
+[![trophy](https://github-profile-trophy.vercel.app/?itspriyo=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <img src="https://raw.githubusercontent.com/itspriyo/itspriyo/main/src/border.png" alt="itspriyo" />
 <p></p>
 
